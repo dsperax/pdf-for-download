@@ -66,10 +66,7 @@ Vídeo, anúncio e palavras chaves orgânicas. Dessa forma existe mais exposiç�
 **Preto**: Descrição (Do que se trata);<br>
 **Vermelho**: Marcações de destaque (Dados estruturados, o que oferece);<br>
 
----
----
----
----
+![img](https://user-images.githubusercontent.com/76974801/115068604-d8084300-9ec8-11eb-94d4-b1cb7d0327fe.png)
  
 Com isso o google entende perfeitamente sobre o que a página se refere, deixando assim o SEO mais completo.
 <br><br>
