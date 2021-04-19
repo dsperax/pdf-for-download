@@ -7,5 +7,7 @@ Files for download (PT-BR)
 
 * PDF SEO - Handout (Apostila PT-BR) - Basico/Basics - [SEO - Basico PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/SEO%20-%20Apostila%200/SEO%20-%20Apostila%200%20(PT-BR).pdf);
   * [SEO.md](https://github.com/dsperax/pdf-for-download/blob/main/SEO%20-%20Apostila%200/SEO_0.md);
-  * [Noções básicas de SEO](https://www.alura.com.br/artigos/nocoes-basicas-de-seo) - Post by alura;
-  * [Video (PT-BR)](https://www.youtube.com/watch?v=PfGyzrLGqZ8) - Como rankear bem no Google;
+  * [Noções básicas de SEO](https://www.alura.com.br/artigos/nocoes-basicas-de-seo);
+  * [Como ranquear bem no Google - Vídeo (PT-BR)](https://www.youtube.com/watch?v=PfGyzrLGqZ8);
+  * [Dicas básicas SEO](https://www.alura.com.br/artigos/dicas-de-seo-que-eu-devia-ter-escutado-no-inicio-de-minha-carreira);
+  * [Apareça nos mecanismos de busca - Vídeo (PT-BR](https://www.youtube.com/watch?v=DIhn1aXVVDE);
