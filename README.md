@@ -16,4 +16,4 @@ Files for download (PT-BR)
   * [Como inserir um Call To Action nos posts do seu blog](https://www.alura.com.br/artigos/como-inserir-um-call-to-action-nos-posts-do-seu-blog);
   * [Páginas rápidas no Google com AMP – Accelerated Mobile Pages](https://blog.caelum.com.br/paginas-rapidas-no-google-com-amp-accelerated-mobile-pages/);
 
-* PDF LESS - Handout (Apostila PT-BR) - Basico/Basics - [Less - Básico PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/Less%20-%20B%C3%A1sico%20(PT-BR)/Less%20-%20B%C3%A1sico.pdf);
+* PDF Less - Handout (Apostila PT-BR) - Basico/Basics - [Less - Básico PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/Less%20-%20B%C3%A1sico%20(PT-BR)/Less%20-%20B%C3%A1sico.pdf);
