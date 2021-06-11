@@ -1,11 +1,11 @@
 # PDF
 Files for download (PT-BR)
 
-* PDF file developed to the course - [Programming for Beginners: Getting Started - Module 9 (PT-BR)](https://dsperax.github.io/#projects);
+* PDF file developed to the course - [Programming for Beginners: Getting Started - Module 9 (PT-BR)](https://dsperax.github.io/#projects):
   * Full playlist course [Here](https://www.youtube.com/playlist?list=PLmqkw6CHug4g-4eIksKO-a_biyxz0-EU-);
   * [PDF and Kindle files](https://github.com/dsperax/pdf-for-download/tree/main/Getting%20Started%20-%20Module%209%20(PT-BR)%20-%20PDF-Kindle);
 
-* PDF SEO - Handout (Apostila PT-BR) - Basico/Basics - [SEO - Basico PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/SEO%20-%20B%C3%A1sico%20(PT-BR)/SEO%20-%20Apostila%20(PT-BR).pdf);
+* SEO - Handout (Apostila PT-BR) - Basico/Basics - [SEO - Basico PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/SEO%20-%20B%C3%A1sico%20(PT-BR)/SEO%20-%20Apostila%20(PT-BR).pdf):
   * [Noções básicas de SEO](https://www.alura.com.br/artigos/nocoes-basicas-de-seo);
   * [Como ranquear bem no Google - Vídeo (PT-BR)](https://www.youtube.com/watch?v=PfGyzrLGqZ8);
   * [Dicas básicas SEO](https://www.alura.com.br/artigos/dicas-de-seo-que-eu-devia-ter-escutado-no-inicio-de-minha-carreira);
@@ -16,4 +16,10 @@ Files for download (PT-BR)
   * [Como inserir um Call To Action nos posts do seu blog](https://www.alura.com.br/artigos/como-inserir-um-call-to-action-nos-posts-do-seu-blog);
   * [Páginas rápidas no Google com AMP – Accelerated Mobile Pages](https://blog.caelum.com.br/paginas-rapidas-no-google-com-amp-accelerated-mobile-pages/);
 
-* PDF Less - Handout (Apostila PT-BR) - Basico/Basics - [Less - Básico PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/Less%20-%20B%C3%A1sico%20(PT-BR)/Less%20-%20B%C3%A1sico.pdf);
+* Less - Handout (Apostila PT-BR) - Basico/Basics - [Less - Básico PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/Less%20-%20B%C3%A1sico%20(PT-BR)/Less%20-%20B%C3%A1sico.pdf);
+
+* Math notes to ML and Data - [Notes](https://github.com/dsperax/pdf-for-download/tree/main/Math-notes):
+  * [Calculus](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/Calculus-notes.pdf);
+  * [Algebra](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/algebra-notes.pdf);
+  * [Probability](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/probability-notes.pdf);
+  * [Statistics](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/statistic-notes.pdf);
