@@ -5,6 +5,8 @@ Files for download (PT-BR)
   * Full playlist course [Here](https://www.youtube.com/playlist?list=PLmqkw6CHug4g-4eIksKO-a_biyxz0-EU-);
   * [PDF and Kindle files](https://github.com/dsperax/pdf-for-download/tree/main/Getting%20Started%20-%20Module%209%20(PT-BR)%20-%20PDF-Kindle);
 
+* OOP - Handout (Apostila PT-BR) - Basico/Basics - [POO - Programação Orientada a Objetos PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(PT-BR)/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(PT-BR).pdf);
+
 * SEO - Handout (Apostila PT-BR) - Basico/Basics - [SEO - Basico PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/SEO%20-%20B%C3%A1sico%20(PT-BR)/SEO%20-%20Apostila%20(PT-BR).pdf):
   * [Noções básicas de SEO](https://www.alura.com.br/artigos/nocoes-basicas-de-seo);
   * [Como ranquear bem no Google - Vídeo (PT-BR)](https://www.youtube.com/watch?v=PfGyzrLGqZ8);
