@@ -5,6 +5,8 @@ Files for download (PT-BR)
   * Full playlist course [Here](https://www.youtube.com/playlist?list=PLmqkw6CHug4g-4eIksKO-a_biyxz0-EU-)
   * [PDF and Kindle files](https://github.com/dsperax/pdf-for-download/tree/main/Getting%20Started%20-%20Module%209%20(PT-BR)%20-%20PDF-Kindle)
 
+* Arquitetura de Software - Handout (Apostila PT-BR) - Overview - [Arquitetura de Software (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/Arquitetura%20de%20Software%20(PT-BR)/Arquitetura%20de%20software.pdf)
+
 * OOP - Handout (Apostila PT-BR) - Basico/Basics - [POO - Programação Orientada a Objetos (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(PT-BR)/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(PT-BR).pdf)
 
 * AWS CLoud (PT-BR) - Basico/Basics - [AWS Cloud  (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/AWS%20Cloud%20(PT-BR)/AWS%20Cloud%20(PT-BR).pdf)
