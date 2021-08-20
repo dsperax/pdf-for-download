@@ -29,3 +29,6 @@ Files for download (PT-BR)
   * [Algebra](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/algebra-notes.pdf)
   * [Probability](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/probability-notes.pdf)
   * [Statistics](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/statistic-notes.pdf)
+
+* Docker - main commands - [Notes](https://github.com/dsperax/pdf-for-download/blob/main/Docker-notes/Docker-Principais-Comandos-E-Exemplo.pdf)
+
