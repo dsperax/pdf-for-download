@@ -10,6 +10,7 @@ Files for download (PT-BR)
 * OOP - Handout (Apostila PT-BR) - Basico/Basics - [POO - Programação Orientada a Objetos (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(PT-BR)/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(PT-BR).pdf)
 
 * AWS CLoud (PT-BR) - Basico/Basics - [AWS Cloud  (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/AWS%20Cloud%20(PT-BR)/AWS%20Cloud%20(PT-BR).pdf)
+  * [AWS config via cmd](https://github.com/dsperax/pdf-for-download/blob/main/AWS%20Cloud%20(PT-BR)/AWS%20Configure%20via%20cmd.pdf)
 
 * SEO - Handout (Apostila PT-BR) - Basico/Basics - [SEO - Basico (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/SEO%20-%20B%C3%A1sico%20(PT-BR)/SEO%20-%20Apostila%20(PT-BR).pdf):
   * [Noções básicas de SEO](https://www.alura.com.br/artigos/nocoes-basicas-de-seo)
