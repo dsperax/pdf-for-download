@@ -1,6 +1,8 @@
 # PDF
 Files for download (PT-BR)
 
+* Docker - base docker-compose and instructions - [Tutorial](https://github.com/dsperax/pdf-for-download/tree/main/Docker)
+
 * PDF file developed to the course - [Programming for Beginners: Getting Started - Module 9 (PT-BR)](https://dsperax.github.io/#projects)
   * Full playlist course [Here](https://www.youtube.com/playlist?list=PLmqkw6CHug4g-4eIksKO-a_biyxz0-EU-)
   * [PDF and Kindle files](https://github.com/dsperax/pdf-for-download/tree/main/Getting%20Started%20-%20Module%209%20(PT-BR)%20-%20PDF-Kindle)
@@ -30,5 +32,3 @@ Files for download (PT-BR)
   * [Algebra](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/algebra-notes.pdf)
   * [Probability](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/probability-notes.pdf)
   * [Statistics](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/statistic-notes.pdf)
-
-* Docker - base docker-compose and instructions - [Tutorial](https://github.com/dsperax/pdf-for-download/tree/main/Docker)
