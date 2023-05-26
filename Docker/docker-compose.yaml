@@ -41,8 +41,18 @@ services:
       ME_CONFIG_MONGODB_ADMINUSERNAME: root
       ME_CONFIG_MONGODB_ADMINPASSWORD: root123
       ME_CONFIG_MONGODB_URL: mongodb://root:root123@mongo:27017/
+      
+#----postgres----
+  db:
+    image: postgres
+    container_name: postgres
+    restart: always
+    ports:
+       - 5432:5432
+    environment:
+      POSTGRES_PASSWORD: root
 
-#----Kafka messager----
+#----Kafka message----
   zookeeper:
     image: confluentinc/cp-zookeeper:latest
     container_name: zookeeper
