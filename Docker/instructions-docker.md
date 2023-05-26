@@ -111,6 +111,15 @@ lembre-se, em caso de teimosia da maquina -f resolve;
     Username: sa
     Senha: P@ssword
 
+### **POSTGRES**
+
+    Host: localhost
+    Porta: 5432
+    Database/Schema: postgres
+    Authentication: Database Native
+    Username: postgres
+    Senha: root
+
 ### **Kafka (via offset explorer)**
 
     Cluster name: zookeeper-local-docker
