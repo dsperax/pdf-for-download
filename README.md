@@ -31,5 +31,5 @@ Files for download (PT-BR)
   * [Probability](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/probability-notes.pdf)
   * [Statistics](https://github.com/dsperax/pdf-for-download/blob/main/Math-notes/statistic-notes.pdf)
 
-* Docker - base docker-compose and instructions - [Tutorial]([https://github.com/dsperax/pdf-for-download/blob/main/Docker-notes/Docker-Principais-Comandos-E-Exemplo.pdf](https://github.com/dsperax/pdf-for-download/tree/main/Docker)
+* Docker - base docker-compose and instructions - [Tutorial](https://github.com/dsperax/pdf-for-download/blob/main/Docker-notes/Docker-Principais-Comandos-E-Exemplo.pdf](https://github.com/dsperax/pdf-for-download/tree/main/Docker)
 
