@@ -1,7 +1,7 @@
 # PDF
 Files for download (PT-BR)
 
-* DDD - Pratice Domain Driven Design - [Pratice project]([https://github.com/dsperax/pdf-for-download/tree/main/Docker](https://github.com/dsperax/pdf-for-download/blob/main/DDD/DDD%20-%20Domain%20Driven%20Design.pdf))
+* DDD - Pratice Domain Driven Design - [Pratice project](https://github.com/dsperax/pdf-for-download/blob/main/DDD/DDD%20-%20Domain%20Driven%20Design.pdf)
 
 * Docker - base docker-compose and instructions - [Tutorial](https://github.com/dsperax/pdf-for-download/tree/main/Docker)
 
