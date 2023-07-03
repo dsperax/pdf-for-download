@@ -1,21 +1,21 @@
 # **Comandos Docker:**
 
-### Instalação docker no linux:
+### Instalação docker no linux
 
 Obs: Os comandos devem ser executados um por linha.
-```
-sudo apt update
-sudo apt-get remove docker docker-engine docker.io containerd runc
-sudo apt install apt-transport-https ca-certificates curl software-properties-common
-sudo apt install build-essential
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-sudo apt update
-sudo apt install docker-ce
-sudo service docker start
-sudo docker run hello-world
-sudo apt-get install docker-ce-cli containerd.io docker-compose-plugin
-```
+
+    sudo apt update
+    sudo apt-get remove docker docker-engine docker.io containerd runc
+    sudo apt install apt-transport-https ca-certificates curl software-properties-common
+    sudo apt install build-essential
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add
+    sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+    sudo apt update
+    sudo apt install docker-ce
+    sudo service docker start
+    sudo docker run hello-world
+    sudo apt-get install docker-ce-cli containerd.io docker-compose-plugin
+
 
 ### **Visualização**
 
