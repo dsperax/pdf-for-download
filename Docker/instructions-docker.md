@@ -16,48 +16,47 @@ Obs: Os comandos devem ser executados um por linha.
     sudo docker run hello-world
     sudo apt-get install docker-ce-cli containerd.io docker-compose-plugin
 
-
 ### **Visualização**
 
-| Comando | Resultado
-|----------|:-------------:
-| docker ps -a | lista containers
-| docker ps -a -q | lista id dos containers
-| docker images -a | lista imagens
-| docker images -a -q | lista id das imagens
+| Comando PowerShell | Comando linux | Resultado
+|----------|----------|:-------------:
+| docker ps -a        | sudo docker ps -a        | lista containers
+| docker ps -a -q     | sudo docker ps -a -q     | lista id dos containers
+| docker images -a    | sudo docker images -a    | lista imagens
+| docker images -a -q | sudo docker images -a -q | lista id das imagens
 
 ### **Ação**
 
-| Comando | Resultado
-|----------|:-------------:
-| docker run ...  | criação
-| docker stop ... | pausa imagem ou container
-| docker start ...| starta imagem ou container
+| Comando PowerShell | Comando linux | Resultado
+|----------|----------|:-------------:
+| docker run ...  | sudo docker run ...    | criação
+| docker stop ... | sudo docker stop ...   | pausa imagem ou container
+| docker start ...| sudo docker start ...  | starta imagem ou container
 
 ### **Exclusão**
 
-| Comando | Resultado
-|----------|:-------------:
-| docker rm (nome ou 4 primeiros digitos do id)   | remove container
-| docker rmi (nome ou 4 primeiros digitos do id)  | remove imagem
-| docker rm ($docker ps -a -q) | exclui todos os containers (funcional apenas executado pelo window powershell)
-| docker rmi ($docker images -a -q) | remove todas as imagens (funcional apenas executado pelo window powershell)
+| Comando PowerShell | Comando linux | Resultado
+|----------|----------|:-------------:
+| docker rm (nome ou 4 primeiros digitos do id)  | sudo docker rm (nome ou 4 primeiros digitos do id)   | remove container
+| docker rmi (nome ou 4 primeiros digitos do id) | sudo docker rmi (nome ou 4 primeiros digitos do id)  | remove imagem
+| docker rm ($docker ps -a -q)                   | sudo docker rm ($docker ps -a -q)                    | exclui todos os containers (funcional apenas executado pelo window powershell)
+| docker rmi ($docker images -a -q)              | sudo docker rmi ($docker images -a -q)               | remove todas as imagens (funcional apenas executado pelo window powershell)
     
 
 ### **Comandos para docker compose**
 
 * *comandos executados DENTRO DA PASTA ONDE SE LOCALIZA O ARQUIVO*
 
-| Comando | Resultado
-|----------|:-------------:
-| docker-compose up    | executa comandos dentro do docker-compose.yaml
-| docker-compose down  | exclui imagens criadas pelo docker-compose.- yaml
-| docker-compose start | starta imagens criadas pelo docker-compose.yaml
-| docker-compose stop  | pausa imagens criadas pelo docker-compose.yaml
+| Comando PowerShell | Comando linux| Resultado
+|----------|----------|:-------------:
+| docker-compose up    | sudo docker-compose up    | executa comandos dentro do docker-compose.yaml
+| docker-compose down  | sudo docker-compose down  | exclui imagens criadas pelo docker-compose.- yaml
+| docker-compose start | sudo docker-compose start | starta imagens criadas pelo docker-compose.yaml
+| docker-compose stop  | sudo docker-compose stop  | pausa imagens criadas pelo docker-compose.yaml
 
 <hr>
 
-## **Exemplo**
+## **Exemplo via PowerShell**
 
 Execução do docker compose para criação de um ambiente com 2 bancos MSSQL e 1 Messageria (kafka).
 
