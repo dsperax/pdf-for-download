@@ -49,10 +49,10 @@ Obs: Os comandos devem ser executados um por linha.
 
 | Comando PowerShell | Comando linux| Resultado
 |----------|----------|:-------------:
-| docker-compose up    | sudo docker-compose up    | executa comandos dentro do docker-compose.yaml
-| docker-compose down  | sudo docker-compose down  | exclui imagens criadas pelo docker-compose.- yaml
-| docker-compose start | sudo docker-compose start | starta imagens criadas pelo docker-compose.yaml
-| docker-compose stop  | sudo docker-compose stop  | pausa imagens criadas pelo docker-compose.yaml
+| docker-compose up    | sudo docker compose up    | executa comandos dentro do docker-compose.yaml
+| docker-compose down  | sudo docker compose down  | exclui imagens criadas pelo docker-compose.- yaml
+| docker-compose start | sudo docker compose start | starta imagens criadas pelo docker-compose.yaml
+| docker-compose stop  | sudo docker compose stop  | pausa imagens criadas pelo docker-compose.yaml
 
 <hr>
 
