@@ -1,4 +1,4 @@
-## Remove null field from JSON:
+## Remove null fields from JSON:
 
 ```
 func removeNullFields(data []byte) ([]byte, error) {
