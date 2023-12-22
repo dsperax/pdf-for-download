@@ -10,7 +10,7 @@ Monitore e Diagnostique: Use alarmes, logs e análises de conteúdo para identif
 
 Utilize Redrive para Reciclagem de Mensagens: Reenvie mensagens da DLQ de volta para a fila de origem, após a correção dos problemas, para processá-las novamente​
 
-<img src="https://github.com/dsperax/pdf-for-download/blob/main/AWS%20Cloud%20(PT-BR)/dql%20diagram.png">
+<img src="https://github.com/dsperax/pdf-for-download/blob/main/AWS%20Cloud%20(PT-BR)/dql.png">
 
 How to do:
 
