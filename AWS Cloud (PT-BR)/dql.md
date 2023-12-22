@@ -10,7 +10,7 @@ Monitore e Diagnostique: Use alarmes, logs e análises de conteúdo para identif
 
 Utilize Redrive para Reciclagem de Mensagens: Reenvie mensagens da DLQ de volta para a fila de origem, após a correção dos problemas, para processá-las novamente​
 
-[Diagrama]()
+<img src="https://github.com/dsperax/pdf-for-download/blob/main/AWS%20Cloud%20(PT-BR)/dql%20diagram.png">
 
 How to do:
 
@@ -69,3 +69,32 @@ func main() {
     }
 }
 ```
+
+Para processar a DQL basta modificar o url:
+
+```
+// Substitua 'url_da_sua_DLQ_aqui' pelo URL da sua DLQ
+dlqURL := "url_da_sua_DLQ_aqui"
+
+// Recebendo mensagens da DLQ
+result, _ := svc.ReceiveMessage(&sqs.ReceiveMessageInput{
+    QueueUrl:            &dlqURL,
+    MaxNumberOfMessages: aws.Int64(10),
+    WaitTimeSeconds:     aws.Int64(20),
+})
+
+// Processamento das mensagens da DLQ
+for _, message := range result.Messages {
+    fmt.Printf("Mensagem da DLQ: %s\n", *message.Body)
+
+    // Processamento da mensagem aqui
+    // ...
+
+    // Deletar a mensagem após o processamento
+    _, _ = svc.DeleteMessage(&sqs.DeleteMessageInput{
+        QueueUrl:      &dlqURL,
+        ReceiptHandle: message.ReceiptHandle,
+    })
+}
+```
+Para configurar uma DLQ no AWS SQS, você deve acessar o AWS Management Console, navegar até o SQS, selecionar ou criar uma fila e então configurar a fila para usar uma DLQ especificando a política de redrive com a maxReceiveCount. Isso pode ser feito nas opções da fila sob "Redrive policy" onde você vincula a fila DLQ e define as tentativas antes de mover as mensagens para a DLQ. [Doc](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html)
