@@ -19,7 +19,7 @@ Para configurar Dead Letter Queues (DLQs) no Amazon SQS na prática, siga estes 
 - Crie a DLQ: Vá ao console do SQS e crie uma nova fila, que será a sua DLQ.
 - Associe a DLQ à Fila Principal: No console do SQS, selecione a fila principal e configure a DLQ associando-a e definindo o maxReceiveCount (número de tentativas antes de enviar para a DLQ).
 - Configure os Consumidores: Ajuste o código do consumidor para processar mensagens da fila principal e tratar exceções adequadamente.
-- Monitore e Ajuste: Use o CloudWatch para monitorar a fila e ajustar as configurações conforme necessário.
+- Monitore e Ajuste: Use o CloudWatch (ou o monitoramento de sua preferencia) para monitorar a fila e ajustar as configurações conforme necessário.
 
 Não há código específico envolvido neste processo, pois é realizado principalmente através da configuração no console do AWS SQS.
 
