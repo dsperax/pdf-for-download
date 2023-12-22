@@ -18,6 +18,7 @@ Files for download (PT-BR)
 
 * AWS CLoud (PT-BR) - Basico/Basics - [AWS Cloud  (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/AWS%20Cloud%20(PT-BR)/AWS%20Cloud%20(PT-BR).pdf)
   * [AWS config via cmd (EN)](https://github.com/dsperax/pdf-for-download/blob/main/AWS%20Cloud%20(PT-BR)/AWS%20Configure%20via%20cmd.pdf)
+  * [DQL's (PT)](https://github.com/dsperax/pdf-for-download/blob/main/AWS%20Cloud%20(PT-BR)/dql.md)
 
 * SEO - Handout (Apostila PT-BR) - Basico/Basics - [SEO - Basico (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/SEO%20-%20B%C3%A1sico%20(PT-BR)/SEO%20-%20Apostila%20(PT-BR).pdf):
   * [Noções básicas de SEO](https://www.alura.com.br/artigos/nocoes-basicas-de-seo)
