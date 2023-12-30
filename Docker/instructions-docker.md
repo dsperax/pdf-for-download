@@ -39,8 +39,8 @@ Obs: Os comandos devem ser executados um por linha.
 |----------|----------|:-------------:
 | docker rm (nome ou 4 primeiros digitos do id)  | sudo docker rm (nome ou 4 primeiros digitos do id)   | remove container
 | docker rmi (nome ou 4 primeiros digitos do id) | sudo docker rmi (nome ou 4 primeiros digitos do id)  | remove imagem
-| docker rm ($docker ps -a -q)                   | sudo docker rm ($docker ps -a -q)                    | exclui todos os containers (funcional apenas executado pelo window powershell)
-| docker rmi ($docker images -a -q)              | sudo docker rmi ($docker images -a -q)               | remove todas as imagens (funcional apenas executado pelo window powershell)
+| docker rm $(docker ps -a -q)                   | sudo docker rm $(docker ps -a -q)                    | exclui todos os containers (funcional apenas executado pelo window powershell)
+| docker rmi $(docker images -a -q)              | sudo docker rmi $(docker images -a -q)               | remove todas as imagens (funcional apenas executado pelo window powershell)
     
 
 ### **Comandos para docker compose**
