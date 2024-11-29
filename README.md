@@ -15,6 +15,8 @@ Files for download (PT-BR)
 
 * Arquitetura de Software - Handout (Apostila PT-BR) - Overview - [Arquitetura de Software (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/Arquitetura%20de%20Software%20(PT-BR)/Arquitetura%20de%20software.pdf)
   * [Explorando as Arquiteturas de Backend (PT-BR / EN-US)](https://github.com/dsperax/pdf-for-download/tree/main/Arquitetura%20de%20Software%20(PT-BR)/Exploring%20Backend%20Architectures%20-%20Explorando%20Arquiteturas%20de%20Backend)
+  * [Microservices in Today's Landscape - A Comprehensive Overview (EN-US)](https://github.com/dsperax/pdf-for-download/blob/main/Arquitetura%20de%20Software%20-%20Software%20Architecture/Microsservices/Microservices%20in%20Today's%20Landscape%20-%20A%20Comprehensive%20Overview%20(EN-US).pdf)
+    * [Example of how to build a microservice architecture for a management system (EN-US)](https://github.com/dsperax/pdf-for-download/blob/main/Arquitetura%20de%20Software%20-%20Software%20Architecture/Microsservices/ex.md)
  
 * OOP - Handout (Apostila PT-BR) - Basico/Basics - [POO - Programação Orientada a Objetos (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(PT-BR)/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(PT-BR).pdf)
 
