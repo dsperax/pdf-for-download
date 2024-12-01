@@ -787,3 +787,75 @@ Dicas para a Prova no CodeSignal:
 - Pratique Implementações: Certifique-se de saber implementar tanto a busca linear quanto a busca binária e entender quando cada uma é apropriada.
 
 - Gerencie Casos de Teste: Considere listas vazias, listas com um único elemento, listas com elementos duplicados e alvos no início, meio ou fim da lista.
+
+## Exercícios:
+
+1 - Let's say a triple (a, b, c) is a zigzag if either a < b > c or a > b < c.
+
+Given an array of integers numbers, your task is to check all the triples of its consecutive elements for being a zigzag. More formally, your task is to construct an array of length numbers.length - 2, where the ith element of the output array equals 1 if the triple (numbers[i], numbers[i + 1], numbers[i + 2]) is a zigzag, and 0 otherwise.
+
+```
+func solution(numbers []int) []int {
+    
+    // O resultado terá comprimento numbers.length - 2
+    result := make([]int, len(numbers)-2)
+ 
+    // Iterar sobre os índices onde podemos formar triples
+     for i := 0; i < len(numbers)-2; i++ {
+        a, b, c := numbers[i], numbers[i+1], numbers[i+2]
+        
+        // Verificar se é um zigzag: a < b > c ou a > b < c
+        if (a < b && b > c) || (a > b && b < c) {
+            result[i] = 1
+        } else {
+            result[i] = 0
+        }
+    }
+    return result
+}
+```
+
+2 - FizzBuzz
+
+```
+func fizzBuzz(n int32) {
+    var i int32
+    for i = 1 ; i <= n; i++ {
+        if (i%3==0 && i%5==0){
+            fmt.Println("FizzBuzz")
+        }
+        if (i%3==0 && i%5!=0){
+			fmt.Println("Fizz")
+        }
+        if (i%3!=0 && i%5==0){
+            fmt.Println("Buzz")
+        }
+        if (i%3!=0 && i%5!=0){
+            fmt.Println(i)
+        }
+    }
+}
+```
+3 - Unexpected Demand
+
+```
+func filledOrders(order []int32, k int32) int32 {
+
+    sort.Slice(order, func(i, j int) bool {
+        return order[i] < order[j]
+    })
+    
+    var fulfulledOrders int32 =0
+    
+    for _, o := range order {
+        if k >= o {
+           k -= o
+           fulfulledOrders++ 
+        } else {
+            break
+        }
+    }
+    
+    return fulfulledOrders
+}
+```
