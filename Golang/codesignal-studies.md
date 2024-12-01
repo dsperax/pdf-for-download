@@ -859,3 +859,48 @@ func filledOrders(order []int32, k int32) int32 {
     return fulfulledOrders
 }
 ```
+4 - Retangle compair
+```
+package main
+
+import (
+	"fmt"
+)
+
+func nearlySimilarRectangles(sides [][]int64) int64 {
+	// Mapa para armazenar a proporção como string e a contagem de retângulos com a mesma proporção
+	ratioCount := make(map[float64]int64)
+
+	// Iterar sobre cada retângulo para calcular a proporção
+	for _, side := range sides {
+		width := side[0]
+		height := side[1]
+		ratio := float64(width) / float64(height)
+		ratioCount[ratio]++
+	}
+
+	var result int64 = 0
+
+	// Para cada proporção no mapa, calcular o número de pares
+	for _, count := range ratioCount {
+		if count > 1 {
+			// Número de pares possíveis com `count` retângulos é combinação (count, 2)
+			result += count * (count - 1) / 2
+		}
+	}
+
+	return result
+}
+
+func main() {
+	// Teste com o exemplo fornecido na imagem
+	sides := [][]int64{
+		{5, 10},
+		{10, 10},
+		{3, 6},
+		{9, 9},
+	}
+
+	fmt.Println(nearlySimilarRectangles(sides)) // Saída esperada: 2
+}
+```
