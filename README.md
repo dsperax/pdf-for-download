@@ -1,9 +1,9 @@
 # PDF
 Files for download (PT-BR)
 
-* [Roadmaps](https://github.com/dsperax/pdf-for-download/blob/main/DDD/DDD%20-%20Domain%20Driven%20Design.pdf)
-  * [Software engineer roadmap EN-US](https://github.com/dsperax/pdf-for-download/blob/main/DDD/DDD%20-%20Domain%20Driven%20Design.pdf)
-  * [Engenheiro de software PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/DDD/DDD%20-%20Domain%20Driven%20Design.pdf)
+* [Roadmaps]([https://github.com/dsperax/pdf-for-download/blob/main/DDD/DDD%20-%20Domain%20Driven%20Design.pdf](https://github.com/dsperax/pdf-for-download/tree/main/Roadmaps))
+  * [Software engineer roadmap EN-US](https://github.com/dsperax/pdf-for-download/blob/main/Roadmaps/(EN-US)%20📌%20Study%20Roadmap%20–%201%20Hour%20Per%20Day.pdf)
+  * [Engenheiro de software PT-BR](https://github.com/dsperax/pdf-for-download/blob/main/Roadmaps/(PT-BR)%20📌%20Roadmap%20de%20Estudos%20–%201%20Hora%20por%20Dia.pdf)
 
 * Golang - Introduction to a new Language - [Golang (PT-BR)](https://github.com/dsperax/pdf-for-download/blob/main/Golang%20-%20Apostila%20(PT-BR)/Golang%20-%20Apostila%20(PT-BR).pdf)
   * [JSON Manipulation with golang](https://github.com/dsperax/pdf-for-download/blob/main/Golang/json-manipulation-with-go.md)
