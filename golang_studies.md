@@ -147,11 +147,11 @@ On average, both insertion and read operations in a map are **O(1)**.
 ### Define generics. What’s its use?
 **Generics** allow writing functions and data structures with type parameters, enabling code reuse for different types while maintaining type safety.
 
-\`\`\`go
+```go
 func Sum[T int | float64](a, b T) T {
     return a + b
 }
-\`\`\`
+```
 
 ### Define struct.
 A **struct** is a composite data type that groups together variables under a single name. Each variable inside a struct is called a **field**.
